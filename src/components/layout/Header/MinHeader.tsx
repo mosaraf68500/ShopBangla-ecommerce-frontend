@@ -28,7 +28,7 @@ const MinHeader: React.FC = () => {
                             </div>
                             <div className="hidden sm:block">
                                 <h1 className="text-2xl font-bold tracking-tight leading-none text-gray-800">
-                                    Mega<span className="text-[var(--color-primary)]">Shop</span>
+                                    Shop<span className="text-[var(--color-primary)]">Bangla</span>
                                 </h1>
                                 <p className="text-[10px] uppercase tracking-widest text-gray-400 font-semibold mt-1">Premium E-store</p>
                             </div>
